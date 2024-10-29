@@ -1,6 +1,6 @@
 #Laboratorio1-JuanAlvarez
 ## Integrantes Grupo
 
--Monica Florez
--Juan Alvarez
--Brayan Hernandez
+1. Monica Florez
+2. Juan Alvarez
+3. Brayan Hernandez
