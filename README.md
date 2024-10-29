@@ -1,3 +1,6 @@
-# Laboratorio1-JuanAlvarez
+#Laboratorio1-JuanAlvarez
+## Integrantes Grupo
 
-## Monica Flores
+-Monica Florez
+-Juan Alvarez
+-Brayan Hernandez
